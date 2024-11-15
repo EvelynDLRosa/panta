@@ -1,0 +1,2 @@
+# panta
+LOGIN,REGISTER,CARD
